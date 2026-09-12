@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.gif" width="600" alt="Futuristic Tech GIF">
+  <img src="header-v2.gif" width="600" alt="Futuristic Tech GIF">
 
   # Hello there! 👋
 
