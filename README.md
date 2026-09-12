@@ -24,7 +24,7 @@ anomalic1@mac ~ % cat operator.json
   "handle":  "anomalic1",
   "status":  "building at 3AM",
   "focus":   ["machine learning", "robotics", "physics simulations", "3D worlds"],
-  "shipped": ["PezzAI.com ✅", "sentry.sec — scaling"],
+  "shipped": ["PezzAI.com ✅", "tts.zydit.in — scaling"],
   "infra":   "24/7 home server · APIs + bot hosting",
   "rig":     "macOS · dark mode · minimalist",
   "next":    "B.Tech → Robotics & AI",
@@ -138,7 +138,6 @@ anomalic1@mac ~ % cat operator.json
 ---
 
 ### 🐍 the snake
-<!-- powered by .github/workflows/snake.yml — run the workflow once to activate -->
 
 <div align="center">
   <picture>
@@ -175,8 +174,7 @@ anomalic1@mac ~ % cat operator.json
 <div align="center">
   <a href="https://github.com/anomalic1"><img src="https://img.shields.io/badge/GitHub-anomalic1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://pezzai.com"><img src="https://img.shields.io/badge/pezzai.com-visit-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PezzAI" /></a>
-  <!-- replace YOUR_DISCORD_ID with your real user ID (Discord → Settings → Advanced → Developer Mode → Copy ID) -->
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-anomalic1-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.com/users/anomalic1"><img src="https://img.shields.io/badge/Discord-anomalic1-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 
 ---
