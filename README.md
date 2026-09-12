@@ -43,8 +43,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=90renrocraftcracksblogspotcom&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=90renrocraftcracksblogspotcom&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anomalic1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anomalic1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=90renrocraftcracksblogspotcom&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=anomalic1&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
 </div>
