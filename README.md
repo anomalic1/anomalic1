@@ -137,19 +137,6 @@ anomalic1@mac ~ % cat operator.json
   <img src="https://streak-stats.demolab.com/?user=anomalic1&theme=tokyonight&hide_border=true&ring=7AA2F7&fire=FF9E64&currStreakLabel=7AA2F7&currStreakNum=FF9E64&sideLabels=A9B1D6&sideNums=A9B1D6&dates=565F89" alt="GitHub streak" />
 </div>
 
----
-
-### 🐍 the snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anomalic1/anomalic1/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anomalic1/anomalic1/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/anomalic1/anomalic1/output/github-snake.svg" />
-  </picture>
-</div>
-
----
 
 ### 📈 contribution radiation
 
@@ -164,7 +151,7 @@ anomalic1@mac ~ % cat operator.json
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anomalic1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
   <br><br>
-  <img src="https://github-readme-achievements.vercel.app/search?username=anomalic1&theme=github_dark&compactMode=true&rank=SECRET,SSS,SS,S,A,B,C" alt="Achievements" />
+  <img src="https://github-readme-achievements.vercel.app/?username=anomalic1&theme=github_dark&compactMode=true&rank=SECRET,SSS,SS,S,A,B,C" alt="Achievements" />
   <br><br>
   <img src="https://profile-summary-cards.vercel.app/api/cards/profile-details?username=anomalic1&theme=tokyonight" alt="Profile summary" />
 </div>
