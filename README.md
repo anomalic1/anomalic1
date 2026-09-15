@@ -136,26 +136,6 @@ anomalic1@mac ~ % cat operator.json
 </div>
 
 
-### 📈 contribution radiation
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anomalic1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</div>
-
----
-
-### 🏆 trophy room
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anomalic1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
-  <br><br>
-  <img src="https://github-readme-achievements.vercel.app/?username=anomalic1&theme=github_dark&compactMode=true&rank=SECRET,SSS,SS,S,A,B,C" alt="Achievements" />
-  <br><br>
-  <img src="https://profile-summary-cards.vercel.app/api/cards/profile-details?username=anomalic1&theme=tokyonight" alt="Profile summary" />
-</div>
-
----
-
 ### 📡 open a channel
 
 <div align="center">
