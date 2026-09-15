@@ -1,9 +1,11 @@
 <div align="center">
   <img src="header-v2.gif" width="600" alt="Futuristic Tech GIF">
 
-  # ⚡ hello, I'm anomalic1
+  <h1>⚡ hello, I'm anomalic1</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=500&lines=building+3D+worlds+in+the+dark;developing+sentry.sec;scaling+PezzAI.com;robotics+%2B+AI+enthusiast;physics+simulation+nerd;macOS+%C2%B7+minimal+%C2%B7+dark+mode" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=building+3D+worlds+in+the+dark;coming+soon;scaling+PezzAI.com;robotics+%2B+AI+enthusiast;physics+simulation+nerd;macOS+%C2%B7+minimal+%C2%B7+dark+mode" alt="Typing SVG" />
+  
+  <br><br>
 
   <img src="https://komarev.com/ghpvc/?username=anomalic1&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/anomalic1?style=for-the-badge&logo=github&label=OPERATORS" alt="Followers" />
