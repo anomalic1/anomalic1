@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="header-v2.gif" width="600" alt="Futuristic Tech GIF">
-
-  <h1>⚡ hello, I'm anomalic1</h1>
+    <h1>⚡ hello, I'm anomalic1</h1>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=building+3D+worlds+in+the+dark;coming+soon;scaling+PezzAI.com;robotics+%2B+AI+enthusiast;physics+simulation+nerd;macOS+%C2%B7+minimal+%C2%B7+dark+mode" alt="Typing SVG" />
   
@@ -167,6 +165,8 @@ anomalic1@mac ~ % cat operator.json
 </div>
 
 ---
+
+<img src="header-v2.gif" width="600" alt="Futuristic Tech GIF">
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
