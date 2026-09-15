@@ -165,9 +165,10 @@ anomalic1@mac ~ % cat operator.json
 </div>
 
 ---
-
-<img src="header-v2.gif" width="600" alt="Futuristic Tech GIF">
-
+<div align="center">
+   <img src="header-v2.gif" width="600" alt="Futuristic Tech GIF">
+</div>   
+   
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
   <br><br>
