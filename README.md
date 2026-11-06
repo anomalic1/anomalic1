@@ -7,7 +7,6 @@
 
   <img src="https://komarev.com/ghpvc/?username=anomalic1&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/anomalic1?style=for-the-badge&logo=github&label=OPERATORS" alt="Followers" />
-  <img src="https://img.shields.io/badge/Discord-anomalic1-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </div>
 
 ---
