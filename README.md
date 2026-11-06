@@ -1,13 +1,12 @@
 <div align="center">
     <h1>⚡ hello, I'm anomalic1</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=building+3D+worlds+in+the+dark;coming+soon;scaling+PezzAI.com;robotics+%2B+AI+enthusiast;physics+simulation+nerd;macOS+%C2%B7+minimal+%C2%B7+dark+mode" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=building+3D+worlds+in+the+dark;coming+soon;shipping+mega-tts;robotics+%2B+AI+enthusiast;physics+simulation+nerd;macOS+%C2%B7+minimal+%C2%B7+dark+mode" alt="Typing SVG" />
   
   <br><br>
 
   <img src="https://komarev.com/ghpvc/?username=anomalic1&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/anomalic1?style=for-the-badge&logo=github&label=OPERATORS" alt="Followers" />
-  <a href="https://pezzai.com"><img src="https://img.shields.io/badge/pezzai.com-LIVE-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PezzAI" /></a>
   <img src="https://img.shields.io/badge/Discord-anomalic1-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </div>
 
@@ -24,7 +23,7 @@ anomalic1@mac ~ % cat operator.json
   "handle":  "anomalic1",
   "status":  "building at 3AM",
   "focus":   ["machine learning", "robotics", "physics simulations", "3D worlds"],
-  "shipped": ["PezzAI.com ✅", "tts.zydit.in — scaling"],
+  "shipped": ["mega-tts ✅"],
   "infra":   "24/7 home server · APIs + bot hosting",
   "rig":     "macOS · dark mode · minimalist",
   "next":    "B.Tech → Robotics & AI",
@@ -140,8 +139,6 @@ anomalic1@mac ~ % cat operator.json
 
 <div align="center">
   <a href="https://github.com/anomalic1"><img src="https://img.shields.io/badge/GitHub-anomalic1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://pezzai.com"><img src="https://img.shields.io/badge/pezzai.com-visit-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PezzAI" /></a>
-  <a href="https://discord.com/users/anomalic1"><img src="https://img.shields.io/badge/Discord-anomalic1-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 
 ---
